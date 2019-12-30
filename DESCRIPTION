@@ -1,0 +1,10 @@
+Package: ModifiedMetMRM
+Type: Package
+Title: Modified Metabolites Identification.
+Version: 0.1.0
+Author: Fujian Zheng
+Maintainer: Fujian Zheng <zhengfj@dicp.ac.cn>
+Description: Modified Metabolites Identification.
+License: MIT
+Encoding: UTF-8
+LazyData: true
